@@ -4,8 +4,7 @@
 Имплементирајте нов екран во кој ќе ги додавате омилените шеги, од листата на шеги. За таа цел додадете копче за ознака на омилена шега на картичките на почетниот екран. 
 Потребно е да го регистрирате Вашиот проект на конзолата на Firebase и да го следите водичот од аудиториските вежби за поврзување на Firebase со Flutter проект.
 Да овозможи нотификации (локални или push) со Firebase за потсетување на корисникот да ја отвори апликацијата и да ја види шегата на денот (во време по ваш избор). Користете ја документацијата: https://firebase.google.com/docs/cloud-messaging/flutter/client.
-![jokes1](https://github.com/user-attachments/assets/b5ee101b-bb6d-457f-a007-b7edfdaaf8f5)
-![jokes2](https://github.com/user-attachments/assets/1f5b4d2e-a069-4f2e-bd0e-eea7abc8ee11)
+
 ![jokes3](https://github.com/user-attachments/assets/47c59e39-7ba1-422a-95de-646d284c6c99)
 ![jokes4](https://github.com/user-attachments/assets/a2136161-8c47-4845-905d-873d0cc7d0d2)
 ![jokes5](https://github.com/user-attachments/assets/207fdff9-274a-4ad6-8f16-b6a95111dadb)
